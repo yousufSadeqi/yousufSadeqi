@@ -12,5 +12,7 @@
 - Exploring new cybersecurity techniques.  
 
 📫 **Contact Me:**  
-- [GitHub](https://github.com/yousufSadeqi)  
+- [GitHub](https://github.com/yousufSadeqi)
+- Yousufsadeqi333@gmail.com
+- yousufsadeqi36@gmail.com
  
