@@ -4,7 +4,7 @@
 🔹 **Skills & Technologies:**  
 - 💻 Languages: JavaScript, Python, HTML, CSS  
 - 🌐 Frameworks: React.js, Next.js, Prisma  
-- 🔒 Cybersecurity: CCNA, Network+, Security+  
+- 🔒 Cybersecurity: CCNA, Network+, CCNA Security  
 - ⚙️ Dev Tools: Supabase, Stripe, Git  
 
 🔹 **What I’m working on:**  
